@@ -2,9 +2,7 @@
 
 Modelo de devcontainer para desenvolvimento de aplicações em C usando o CMake como ferramenta de construção.
 
-> **ATENÇÃO:** Na [*branch* **clang**](https://github.com/emersonmello/codespace-c/tree/clang) tem um modelo que usa o [*clangd language server*](https://clangd.llvm.org). 
-
-
+> Veja também o [modelo de devcontainer para desenvolvimento em C](https://github.com/emersonmello/codespace-clang-c) que faz uso do [*clangd language server*](https://clangd.llvm.org).
 
 Caso crie mais arquivos `.c` e `.h` em seu projeto, essas adições precisarão ser refletidas no arquivo [CMakeLists.txt](CMakeLists.txt)
 

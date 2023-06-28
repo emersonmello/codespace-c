@@ -2,7 +2,7 @@
 
 Modelo de devcontainer para desenvolvimento de aplicações em C usando o CMake como ferramenta de construção.
 
-Caso crie mais arquivos `.c` e `.h` em seu projeto, essas adições precisará ser refletida no arquivo [CMakeLists.txt](CMakeLists.txt)
+Caso crie mais arquivos `.c` e `.h` em seu projeto, essas adições precisarão ser refletidas no arquivo [CMakeLists.txt](CMakeLists.txt)
 
 ## Como executar a aplicação
 
